@@ -1,0 +1,29 @@
+Servicios de Transferencia en BANCO HENRY:
+
+1. Transferencias Internas (entre cuentas BANCO HENRY):
+   - Tiempo: Inmediato (24/7)
+   - Costo: Gratuito
+   - Límite: Sin límite
+   - Canales: App móvil, Banca en línea, Sucursales, Cajeros
+
+2. Transferencias a Otros Bancos Nacionales:
+   - Tiempo: Máximo 24 horas hábiles
+   - Costo: $50 por transferencia
+   - Límite diario: $100,000
+   - Canales: App móvil, Banca en línea, Sucursales
+
+3. Transferencias Internacionales:
+   - Tiempo: 2-5 días hábiles
+   - Costo: $500 + 2% del monto
+   - Límite: $50,000 por transacción
+   - Canales: Sucursales únicamente
+   - Requisitos: Documento que justifique la transferencia
+
+Información Necesaria para Transferir:
+- Número de cuenta destino (20 dígitos)
+- Nombre completo del beneficiario
+- Cédula del beneficiario
+- Banco destino (para transferencias externas)
+- Concepto de la transferencia
+
+Para asistencia, contacta a nuestro centro de atención al 0800-HENRY-00
