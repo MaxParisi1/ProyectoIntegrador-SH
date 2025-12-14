@@ -53,10 +53,11 @@ def main():
 
     # Imprimir resumen compacto
     print("\n=== Resultados de Validacion ===")
+    newline = '\n'
     for i, (q, qtype, msg) in enumerate(results, 1):
         print(f"{i}. Pregunta: {q}")
         print(f"   Tipo: {qtype}")
-        print(f"   Respuesta: {msg[:300].replace('\n', ' ')}")
+        print(f"   Respuesta: {msg[:300].replace(newline, ' ')}")
         print("")
 
     # Resultado general
